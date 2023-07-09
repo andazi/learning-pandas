@@ -1,4 +1,4 @@
-# Learning Pandas
+# Learning Data Science with Pandas
 
 ## Description
 
